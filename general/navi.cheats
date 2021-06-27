@@ -1,0 +1,7 @@
+% navi
+
+# Reload rubensfernando's public cheats
+navi repo add git@github.com:rubensfernando/cheats.git
+
+# Reload rubensfernando's private cheats
+navi repo add git@github.com:rubensfernando/private-cheats.git
